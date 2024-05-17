@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **sarvesh395kilje@gmail.com**
 
-- 📄 Know about my experiences [1+ Experience as a front end web developer](1+ Experience as a front end web developer)
-
+- 📄 Know about my experiences [1+ Experience as a front end web developer]
 - ⚡ Fun fact **I like to workout, listen music and to develop interactive UI.**
 
 <h3 align="left">Connect with me:</h3>
