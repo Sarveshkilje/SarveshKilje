@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
-<h3 align="center">A passionate frontend developer aspiring men</h3><iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
+<h3 align="center">A passionate frontend developer aspiring men</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshkilje&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshkilje" /> </p>
 
