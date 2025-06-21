@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarvesh Kilje</h1>
 <h3 align="center">A passionate frontend developer aspiring men</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshkilje" alt="sarveshkilje" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack, Data Science.**
 
 - 👨‍💻 All of my projects are available at [sarvesh-kiljepoortfolio.netlify.app](sarvesh-kiljepoortfolio.netlify.app)
